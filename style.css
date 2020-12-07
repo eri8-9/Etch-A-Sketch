@@ -13,9 +13,9 @@
   float: right;
 }
 
-/* .left {
+.left {
   display: inline-block;
-} */
+}
 
 .square {
   background-color: white;
