@@ -3,3 +3,32 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-color: #481971;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  font-size: 70px;
+  color: rgb(255, 0, 0);
+}
+
+.container {
+  display: grid;
+  width: 450px;
+  height: 450px;
+  border: 5px solid rgb(171, 171, 171);
+  position: relative;
+  left: 415px;
+  margin-top: 30px;
+}
+
+.reset {
+  position: relative;
+  left: 590px;
+  font-size: 25px;
+  color: rgb(3, 0, 0);
+}
