@@ -4,6 +4,16 @@
 const container = document.querySelector('.container');
 const reset = document.querySelector('.reset');
 
+// TOuchScreen 
+// container.addEventListener('touchstart', f);
+// container.addEventListener('touchend', f);
+// // container.addEventListener('touchmove', f);
+
+//   function f(ev) {
+//     console.log(ev.touches);
+
+//   }
+
 const starting = function() {
   // Setting the background color of the grid
   container.style.backgroundColor = 'white';
